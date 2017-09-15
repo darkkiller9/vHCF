@@ -1,0 +1,7 @@
+main: pl.vhcf.me.Main
+version: 1.0.0
+name: vHCF
+author: darkkiller9
+description: vHCF Core by darkkiller9.
+commands:
+   help:

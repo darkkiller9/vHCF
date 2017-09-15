@@ -1,0 +1,27 @@
+#####################
+# vHCF v1.0         #
+# by darkkiller9    #
+#                   #
+#####################
+# General
+general:
+   prefix: '&6&lvHCF&8 » &f'
+   no-perm: '&cYou dont have permissions'
+   first-join: '&eWelcome &d{player} &eto the server'
+# Help
+help: 
+  line1: '&8&m----------------'
+  line2: '&3&lPut'
+  line3: '&3&lYour'
+  line4: '&3&lCustom'
+  line5: '&3&lHelp'
+  line6: '&3&lHere'
+  line7: '&8&m----------------'
+# Scoreboard
+scoreboard:
+  title: '&6&lHCF'
+  enderpearl-title: '&5&lEnderPearl '
+# CoolDowns
+cooldown:
+  max-pearl-timer: 16
+  pearl-timer: 6
